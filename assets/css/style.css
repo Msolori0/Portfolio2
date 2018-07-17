@@ -5,7 +5,7 @@ html, body, footer, .main-container{
     background-image:url('../imgs/cool-background.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 120vh;
 }
 
 .header{
@@ -57,3 +57,8 @@ footer{
 
 }
 
+.connect{
+    text-align: center;
+    margin: auto;
+    padding-bottom:20px
+}
